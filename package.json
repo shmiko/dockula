@@ -1,10 +1,10 @@
 {
-  "name": "restfulservice",
-  "author": "Dan Wahlin",
+  "name": "dockula",
+  "author": "Paul Jones",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danwahlin/Angular2-RestfulService"
+    "url": "https://github.com/shmiko/dockula"
   },
   "scripts": {
     "postinstall": "npm run typings install",
